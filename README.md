@@ -51,6 +51,6 @@ Then:
     Put [Cost Flow] on sizes
     Compute using [Padded]
     
-Each piece of data used an extract, and was published to Tableua Public [here](https://public.tableau.com/views/Linford_StratDash/Faraday_Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link).
+Each piece of data used an extract, and was published to Tableau Public [here](https://public.tableau.com/views/Linford_StratDash/Faraday_Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 Note: this was a guided project authored by Stephen Sorenson. Many thanks for his amazing work. 
